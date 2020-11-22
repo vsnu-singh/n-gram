@@ -1,0 +1,1 @@
+neural_network={1: {'my': {'name': {'%val%': 1e-15, 'is': {'%val%': 1e-15, 'vishnu': {'%val%': 1e-15, '*': {'%val%': 1e-15}}}}}}}
